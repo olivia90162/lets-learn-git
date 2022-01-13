@@ -1,3 +1,5 @@
+# very good code and easy to learn code 
+
 from tkinter import* 
 from tkinter.ttk import*
 
